@@ -1,0 +1,317 @@
+
+<div style="display: block; margin: 0 auto; text-align: center; margin-top: 10px">
+      <script src="https://apis.google.com/js/platform.js">
+        
+      </script>
+<link href="https://fonts.googleapis.com/css?family=Rubik&display=swap" rel="stylesheet">
+  
+<script src="https://kit.fontawesome.com/af562a2a63.js" crossorigin="anonymous"></script>
+
+<h2 class="vitrine">Sapatenis</h2>
+<ul class="product-list">
+    <li class="product-item">
+    <img src="https://www.imagemhost.com.br/images/2022/06/08/61uXabuXaDL._AC_SY395_.jpg"width="150px" height="100px"
+
+      alt="description image">
+
+                <figcaption class="product-info-description">
+                    <h2 class="title">Sapatênis Masculino</h2>
+                    <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris velit magna, placerat sed rutrum non, bibendum sed ante. Cras at fringilla justo. Duis vitae viverra diam, eget vehicula dolor.</p>
+                    <ul class="star-ranking">
+                        <li><img src="https://www.imagemhost.com.br/images/2022/06/08/download.jpg" width="150px" height="100px">
+                        </li>
+                        <li><img src="https://www.imagemhost.com.br/images/2022/06/08/download.jpg"width="150px" height="100px">
+                        </li>
+                        <li><img src="https://www.imagemhost.com.br/images/2022/06/08/download.jpg"width="150px" height="100px">
+                        </li>
+                        <li><img src="https://www.imagemhost.com.br/images/2022/06/08/download.jpg"width="150px" height="100px">
+                        </li>
+                        <li><img src="https://www.imagemhost.com.br/images/2022/06/08/download.jpg"width="150px" height="100px">
+                        </li>
+                        <li class="qtd-votes">
+                            </span>(200)</span>
+                        </li>
+                    </ul>,
+                </figcaption>
+                <div class="price-box">
+                    <div class="price">
+                        <div>
+                            <del>R$300,00</del>
+                            <ins>R$180,00</ins>
+                        </div>
+                        <span class="price-info">4x de R$ 49,97 </span>
+                    <button href="#" class="btn btn-buy">Buy now <i class="fas fa-arrow-right"></i></button>
+                </div>
+            </figure>
+    <li class="product-item">
+            <figure class="product-info">
+                <div class="product-info-img">
+                    <img src="https://www.imagemhost.com.br/images/2022/06/08/61uXabuXaDL._AC_SY395_.jpg" alt="description image"width="150px" height="100px">
+                </div>
+                <figcaption class="product-info-description">
+                    <h2 class="title">Sapatênis Masculino</h2>
+                    <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris velit magna, placerat sed rutrum non, bibendum sed ante. Cras at fringilla justo. Duis vitae viverra diam, eget vehicula dolor.</p>
+                    <ul class="star-ranking">
+                        <li><img src="https://www.imagemhost.com.br/images/2022/06/08/download.jpg"width="150px" height="100px">
+                        </li>
+                        <li><img src="https://www.imagemhost.com.br/images/2022/06/08/download.jpg"width="150px" height="100px">
+                        </li>
+                        <li><img src="https://www.imagemhost.com.br/images/2022/06/08/download.jpg"width="150px" height="100px">
+                        </li>
+                        <li><img src="https://www.imagemhost.com.br/images/2022/06/08/download.jpg"width="150px" height="100px">
+                        </li>
+                        <li><img src="https://www.imagemhost.com.br/images/2022/06/08/download.jpg"width="150px" height="100px">
+                        </li>
+                        <li class="qtd-votes">
+                            </span>(200)</span>
+                        </li>
+                    </ul>
+                </figcaption>
+                <div class="price-box">
+                    <div class="price">
+                        <div>
+                            <del>R$300,00</del>
+                            <ins>R$180,00</ins>
+                        </div>
+                        <span class="price-info">4x de R$ 49,97 </span>
+                   <button href="#" class="btn btn-buy">Buy now <i class="fas fa-arrow-right"></i></button>
+                </div>
+            </figure>
+        </a>
+    </li>
+
+            <figure class="product-info">
+                <div class="product-info-img">
+                    <img src="https://www.imagemhost.com.br/images/2022/06/08/61uXabuXaDL._AC_SY395_.jpg" alt="description image"width="150px" height="100px">
+                </div>
+                <figcaption class="product-info-description">
+                    <h2 class="title">Sapatênis Masculino </h2>
+                    <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris velit magna, placerat sed rutrum non, bibendum sed ante. Cras at fringilla justo. Duis vitae viverra diam, eget vehicula dolor.
+.</p>
+                    <ul class="star-ranking">
+                        <li><img src="https://www.imagemhost.com.br/images/2022/06/08/download.jpg"width="150px" height="100px">
+                        </li>
+                        <li><img src="https://www.imagemhost.com.br/images/2022/06/08/download.jpg"width="150px" height="100px">
+                        </li>
+                        <li><img src="https://www.imagemhost.com.br/images/2022/06/08/download.jpg"width="150px" height="100px">
+                        </li>
+                        <li><img src="https://www.imagemhost.com.br/images/2022/06/08/download.jpg"width="150px" height="100px">
+                        </li>
+                        <li><img src="https://www.imagemhost.com.br/images/2022/06/08/download.jpg"width="150px" height="100px">
+                        </li>
+                        <li class="qtd-votes">
+                            </span>(200)</span>
+                        </li>
+                    </ul>
+                </figcaption>
+                <div class="price-box">
+                    <div class="price">
+                        <div>
+                            <del>R$300,00</del>
+                            <ins>R$180,00</ins>
+                        </div>
+                        <span class="price-info">4x de R$ 49,97 </span>
+                    
+              <button href="#" class="btn btn-buy">Buy now <i class="fas fa-arrow-right"></i></button>
+                </div>
+            </figure>
+        </a>
+    </li>
+    <li class="product-item">
+
+
+                <div class="product-info-img">
+                    <img src="https://www.imagemhost.com.br/images/2022/06/08/61uXabuXaDL._AC_SY395_.jpg" alt="description imagewidth="150px" height="100px"
+                </div>
+                <figcaption class="product-info-description">
+                    <h2 class="title">Sapatênis Masculino</h2>
+                    <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris velit magna, placerat sed rutrum non, bibendum sed ante. Cras at fringilla justo. Duis vitae viverra diam, eget vehicula dolor.</p>
+                    <ul class="star-ranking">
+                        <li><img src="https://www.imagemhost.com.br/images/2022/06/08/download.jpg"width="150px" height="100px">
+                        </li>
+                        <li><img src="https://www.imagemhost.com.br/images/2022/06/08/download.jpg"width="150px" height="100px">
+                        </li>
+                        <li><img src="https://www.imagemhost.com.br/images/2022/06/08/download.jpg"width="150px" height="100px">
+                        </li>
+                        <li><img src="https://www.imagemhost.com.br/images/2022/06/08/download.jpg"width="150px" height="100px">
+                        </li>
+                        <li><img src="https://www.imagemhost.com.br/images/2022/06/08/download.jpg"width="150px" height="100px">
+                        </li>
+                        <li class="qtd-votes">
+                            </span>(200)</span>
+                        </li>
+                    </ul>
+                </figcaption>
+                <div class="price-box">
+                    <div class="price">
+                        <div>
+                            <del>R$300,00</del>
+                            <ins>R$180,00</ins>
+                        </div>
+                        <span class="price-info">4x de R$ 49,97 </span>
+               <button href="#" class="btn btn-buy">Buy now <i class="fas fa-arrow-right"></i></button>
+                </div>
+            </figure>
+        </a>
+    </li>
+</ul>
+<h2 class="vitrine">Sapatênis Masculino</h2>
+<ul class="product-list">
+    <li class="product-item">
+
+                <div class="product-info-img">
+                    <img src="https://www.imagemhost.com.br/images/2022/06/08/61uXabuXaDL._AC_SY395_.jpg" alt="description image"width="150px" height="100px">
+                </div>
+                <figcaption class="product-info-description">
+                    <h2 class="title">Sapatênis Masculino</h2>
+                    <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris velit magna, placerat sed rutrum non, bibendum sed ante. Cras at fringilla justo. Duis vitae viverra diam, eget vehicula dolor.</p>
+                    <ul class="star-ranking">
+                        <li><img src="https://www.imagemhost.com.br/images/2022/06/08/download.jpg"width="150px" height="100px">
+                        </li>
+                        <li><img src="https://www.imagemhost.com.br/images/2022/06/08/download.jpg"width="150px" height="100px">
+                        </li>
+                        <li><img src="https://www.imagemhost.com.br/images/2022/06/08/download.jpg"width="150px" height="100px">
+                        </li>
+                        <li><img src="https://www.imagemhost.com.br/images/2022/06/08/download.jpg"width="150px" height="100px">
+                        </li>
+                        <li><img src="https://www.imagemhost.com.br/images/2022/06/08/download.jpg"width="150px" height="100px">
+                        </li>
+                        <li class="qtd-votes">
+                            </span>(200)</span>
+                        </li>
+                    </ul>
+                </figcaption>
+                <div class="price-box">
+                    <div class="price">
+                        <div>
+                            <del>R$300,00</del>
+                            <ins class="d-block">R$180,00</ins>
+                        </div>
+                        <span class="price-info">4x de R$ 49,97</span>
+                    </div>
+                    <button href="#" class="btn btn-buy">Buy now <i class="fas fa-arrow-right"></i></button>
+                </div>
+            </figure>
+        </a>
+    </li>
+    <li class="product-item">
+
+                <div class="product-info-img">
+                    <img src="https://www.imagemhost.com.br/images/2022/06/08/61uXabuXaDL._AC_SY395_.jpg" alt="description image"width="150px" height="100px">
+                </div>
+                <figcaption class="product-info-description">
+                    <h2 class="title">Sapatênis Masculino</h2>
+                    <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris velit magna, placerat sed rutrum non, bibendum sed ante. Cras at fringilla justo. Duis vitae viverra diam, eget vehicula dolor.</p>
+                    <ul class="star-ranking">
+                        <li><img src="https://www.imagemhost.com.br/images/2022/06/08/download.jpg"width="150px" height="100px">
+                        </li>
+                        <li><img src="https://www.imagemhost.com.br/images/2022/06/08/download.jpg"width="150px" height="100px">
+                        </li>
+                        <li><img src="https://www.imagemhost.com.br/images/2022/06/08/download.jpg"width="150px" height="100px">
+                        </li>
+                        <li><img src="https://www.imagemhost.com.br/images/2022/06/08/download.jpg"width="150px" height="100px">
+                        </li>
+                        <li><img src="https://www.imagemhost.com.br/images/2022/06/08/download.jpg"width="150px" height="100px">
+                        </li>
+                        <li class="qtd-votes">
+                            </span>(200)</span>
+                        </li>
+                    </ul>
+                </figcaption>
+                <div class="price-box">
+                    <div class="price">
+                        <div>
+                            <del>R$300,00</del>
+                            <ins class="d-block">R$180,00</ins>
+                        </div>
+                        <span class="price-info">4x de R$ 49,97</span>
+                    </div>
+                    <button href="#" class="btn btn-buy">Buy now <i class="fas fa-arrow-right"></i></button>
+                </div>
+
+            </figure>
+        </a>
+    </li>
+    <li class="product-item">
+
+                <div class="product-info-img">
+                    <img src="https://www.imagemhost.com.br/images/2022/06/08/61uXabuXaDL._AC_SY395_.jpg" alt="description image"width="150px" height="100px">
+                </div>
+                <figcaption class="product-info-description">
+                    <h2 class="title">Sapatênis Masculino</h2>
+                    <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris velit magna, placerat sed rutrum non, bibendum sed ante. Cras at fringilla justo. Duis vitae viverra diam, eget vehicula dolor.</p>
+                    <ul class="star-ranking">
+                        <li><img src="https://www.imagemhost.com.br/images/2022/06/08/download.jpg"width="150px" height="100px">
+                        </li>
+                        <li><img src="https://www.imagemhost.com.br/images/2022/06/08/download.jpg"width="150px" height="100px">
+                        </li>
+                        <li><img src="https://www.imagemhost.com.br/images/2022/06/08/download.jpg"width="150px" height="100px">
+                        </li>
+                        <li><img src="https://www.imagemhost.com.br/images/2022/06/08/download.jpg"width="150px" height="100px">
+                        </li>
+                        <li><img src="https://www.imagemhost.com.br/images/2022/06/08/download.jpg"width="150px" height="100px">
+                        </li>
+                        <li class="qtd-votes">
+                            </span>(200)</span>
+                        </li>
+                    </ul>
+                </figcaption>
+                <div class="price-box">
+                    <div class="price">
+                        <div>
+                            <del>R$300,00</del>
+                            <ins class="d-block">R$180,00</ins>
+                        </div>
+                        <span class="price-info">4x de R$ 49,97</span>
+                    </div>
+                    <button href="#" class="btn btn-buy">Buy now <i class="fas fa-arrow-right"></i></button>
+                </div>
+
+            </figure>
+        </a>
+    </li>
+    <li class="product-item">
+
+                <div class="product-info-img">
+                    <img src="https://www.imagemhost.com.br/images/2022/06/08/61uXabuXaDL._AC_SY395_.jpg" alt="description image"width="150px" height="100px">
+                </div>
+                <figcaption class="product-info-description">
+                    <h2 class="title">Sapatênis Masculino</h2>
+                    <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris velit magna, placerat sed rutrum non, bibendum sed ante. Cras at fringilla justo. Duis vitae viverra diam, eget vehicula dolor.</p>
+                    <ul class="star-ranking">
+                        <li><img src="https://www.imagemhost.com.br/images/2022/06/08/download.jpg"width="150px" height="100px">
+                        </li>
+                        <li><img src="https://www.imagemhost.com.br/images/2022/06/08/download.jpg"width="150px" height="100px">
+                        </li>
+                        <li><img src="https://www.imagemhost.com.br/images/2022/06/08/download.jpg"width="150px" height="100px">
+                        </li>
+                        <li><img src="https://www.imagemhost.com.br/images/2022/06/08/download.jpg"width="150px" height="100px">
+                        </li>
+                        <li><img src="https://www.imagemhost.com.br/images/2022/06/08/download.jpg"width="150px" height="100px">
+                        </li>
+                        <li class="qtd-votes">
+                            </span>(200)</span>
+                        </li>
+                    </ul>
+                </figcaption>
+                <div class="price-box">
+                    <div class="price">
+                        <div>
+                            <del>R$300,00</del>
+                            <ins class="d-block">R$180,00</ins>
+                        </div>
+                        <span class="price-info">4x de R$ 49,97</span>
+                    </div>
+                    <button href="#" class="btn btn-buy">Buy now <i class="fas fa-arrow-right"></i></button>
+                </div>
+
+            </figure>
+        </a>
+    </li>
+
+</ul>
+
+<div style="margin: 50px 0; display: flex; align-items: center; justify-content: center; width: 100%">
+
+    <a style="display: block; text-align:  center; color: #555; text-decoration: none; margin-right: 15px; " target="_blank"><i class="fas fa-home" style="color: #1da1f2; margin-right: 5px;"></i>instagram @breno.coiimbra</a>
+</div>
